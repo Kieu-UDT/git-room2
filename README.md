@@ -4,6 +4,9 @@ tho
 rua
 meo
 
+con ga
+con cho
+con heo
 con heo
 con chó
 con chim
