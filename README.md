@@ -7,6 +7,10 @@ meo
 con ga
 con cho
 con heo
+
+con ho
+con bao
+con voi
 con heo
 con chó
 con chim
