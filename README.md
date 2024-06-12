@@ -27,3 +27,7 @@ con cao cao
 con su tu
 con khi
 con gi do
+
+ca voi
+ca ngua
+ca heo
