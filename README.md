@@ -11,6 +11,10 @@ con heo
 con ho
 con bao
 con voi
+
+con khung long
+con chim
+con lac da
 con heo
 con chó
 con chim
