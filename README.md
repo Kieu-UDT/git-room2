@@ -31,3 +31,6 @@ con gi do
 ca voi
 ca ngua
 ca heo
+ca
+khi
+heo
