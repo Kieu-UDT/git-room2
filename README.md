@@ -34,3 +34,6 @@ ca heo
 ca
 khi
 heo
+su tu
+bao dom
+ho
