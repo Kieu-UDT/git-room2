@@ -27,3 +27,13 @@ con cao cao
 con su tu
 con khi
 con gi do
+
+ca voi
+ca ngua
+ca heo
+ca
+khi
+heo
+su tu
+bao dom
+ho
