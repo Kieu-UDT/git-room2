@@ -1,9 +1,8 @@
 # git-room2
-<<<<<<< HEAD
+
 tho
 rua
 meo
-=======
 
 con heo
 con chó
@@ -16,4 +15,15 @@ con gà
 con cá
 con bọ
 con dế
->>>>>>> Nhan
+
+con meo
+con ca
+con heo
+
+con ma
+con quy
+con cao cao
+
+con su tu
+con khi
+con gi do
